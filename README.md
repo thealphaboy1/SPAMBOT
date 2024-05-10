@@ -3,7 +3,7 @@
 <h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/doraemon890/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/CHALCOGEN645/count.svg" />
 </p>
 [<img src="https://telegra.ph/file/ea4802bf0511a0510e825.jpg"/>]
 

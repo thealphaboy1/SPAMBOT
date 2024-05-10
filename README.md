@@ -2,7 +2,7 @@
 
 <h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
           
-           <b>ᴠɪsɪᴛᴏʀs</>b><br>
+   <b>ᴠɪsɪᴛᴏʀs</>b><br>
 
   -->    <img align="middle" src="https://profile-counter.glitch.me/CHALCOGENXD/count.svg" />
 

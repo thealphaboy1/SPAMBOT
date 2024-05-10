@@ -14,8 +14,8 @@ HELP_BUTTON = [
       Button.inline("★𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦★", data="extra")
     ],
     [
-      Button.url("★𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥★", "https://t.me/chalcogen645"),
-      Button.url("★𝗦𝗨𝗣𝗣𝗢𝗥𝗧★", "https://t.me/bestfriesalways")
+      Button.url("★𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥★", "https://t.me/chalcogenXD"),
+      Button.url("★𝗦𝗨𝗣𝗣𝗢𝗥𝗧★", "https://t.me/+-LYaqet7ltYzNWU1")
     ],
   [   
       Button.inline("★𝗡𝗘𝗪 𝗖𝗢𝗠𝗠𝗔𝗡𝗗★", data="yash")
@@ -181,13 +181,13 @@ async def helpback(event):
                 Button.inline("★𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦★", data="extra")
               ],
               [
-                Button.url("★𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥★", "https://t.me/chalcogen645"),
-                Button.url("★𝗦𝗨𝗣𝗣𝗢𝗥𝗧★", "https://t.me/bestfriesalways")
+                Button.url("★𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥★", "https://t.me/chalcogenXD"),
+                Button.url("★𝗦𝗨𝗣𝗣𝗢𝗥𝗧★", "https://t.me/+-LYaqet7ltYzNWU1")
               ]
             ]
           )
     else:
-        await event.answer("★𝐏𝐋𝐄𝐀𝐒𝐄 𝐉𝐎𝐈𝐍 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏 𝐀𝐍𝐃 𝐓𝐀𝐆 @Cʜᴀʟᴄᴏɢᴇɴ645★" , cache_time=0, alert=True)
+        await event.answer("★𝐏𝐋𝐄𝐀𝐒𝐄 𝐉𝐎𝐈𝐍 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏 𝐀𝐍𝐃 𝐓𝐀𝐆 @CʜᴀʟᴄᴏɢᴇɴXD★" , cache_time=0, alert=True)
 
 
 @X1.on(events.CallbackQuery(pattern=r"spam"))
@@ -206,7 +206,7 @@ async def help_spam(event):
               buttons=[[Button.inline("< Back", data="help_back"),],],
               ) 
     else:
-        await event.answer("★𝐏𝐋𝐄𝐀𝐒𝐄 𝐉𝐎𝐈𝐍 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏 𝐀𝐍𝐃 𝐓𝐀𝐆 @Cʜᴀʟᴄᴏɢᴇɴ645★", cache_time=0, alert=True)
+        await event.answer("★𝐏𝐋𝐄𝐀𝐒𝐄 𝐉𝐎𝐈𝐍 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏 𝐀𝐍𝐃 𝐓𝐀𝐆 @CʜᴀʟᴄᴏɢᴇɴXD★", cache_time=0, alert=True)
 
 
 @X1.on(events.CallbackQuery(pattern=r"raid"))
@@ -225,7 +225,7 @@ async def help_raid(event):
             buttons=[[Button.inline("< Back", data="help_back"),],],
           )
     else:
-        await event.answer("★𝐏𝐋𝐄𝐀𝐒𝐄 𝐉𝐎𝐈𝐍 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏 𝐀𝐍𝐃 𝐓𝐀𝐆 @Cʜᴀʟᴄᴏɢᴇɴ645★", cache_time=0, alert=True)
+        await event.answer("★𝐏𝐋𝐄𝐀𝐒𝐄 𝐉𝐎𝐈𝐍 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏 𝐀𝐍𝐃 𝐓𝐀𝐆 @CʜᴀʟᴄᴏɢᴇɴXD★", cache_time=0, alert=True)
 
 
 @X1.on(events.CallbackQuery(pattern=r"extra"))
@@ -244,7 +244,7 @@ async def help_extra(event):
             buttons=[[Button.inline("< Back", data="help_back"),],],
             )
     else:
-        await event.answer("★𝐏𝐋𝐄𝐀𝐒𝐄 𝐉𝐎𝐈𝐍 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏 𝐀𝐍𝐃 𝐓𝐀𝐆 @Cʜᴀʟᴄᴏɢᴇɴ645★", cache_time=0, alert=True)
+        await event.answer("★𝐏𝐋𝐄𝐀𝐒𝐄 𝐉𝐎𝐈𝐍 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏 𝐀𝐍𝐃 𝐓𝐀𝐆 @CʜᴀʟᴄᴏɢᴇɴXD★", cache_time=0, alert=True)
         
 
 @X1.on(events.CallbackQuery(pattern=r"yash"))
@@ -263,5 +263,5 @@ async def help_yash(event):
              buttons=[[Button.inline("< Back", data="help_back"),],],
              )
      else:
-         await event.answer("★𝐏𝐋𝐄𝐀𝐒𝐄 𝐉𝐎𝐈𝐍 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏 𝐀𝐍𝐃 𝐓𝐀𝐆 @Cʜᴀʟᴄᴏɢᴇɴ645★", cache_time=0, alert=True)
+         await event.answer("★𝐏𝐋𝐄𝐀𝐒𝐄 𝐉𝐎𝐈𝐍 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏 𝐀𝐍𝐃 𝐓𝐀𝐆 @CʜᴀʟᴄᴏɢᴇɴXD★", cache_time=0, alert=True)
 

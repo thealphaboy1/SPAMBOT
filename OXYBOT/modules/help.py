@@ -182,7 +182,7 @@ async def helpback(event):
               ],
               [
                 Button.url("★𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥★", "https://t.me/chalcogenXD"),
-                Button.url("★𝗦𝗨𝗣𝗣𝗢𝗥𝗧★", "https://t.me/+-LYaqet7ltYzNWU1")
+                Button.url("★𝗦𝗨𝗣𝗣𝗢𝗥𝗧★", "https://t.me/penguin_x_support")
               ]
             ]
           )

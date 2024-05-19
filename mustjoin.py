@@ -8,8 +8,6 @@ from PENGUINMUSIC import app
 
 MUST_JOIN = "PENGUIN_X_SUPPORT"
 MUST_JOIN = "PENGUIN_X_CHAT"
-MUST_JOIN = "@falcon_security"
-MUST_JOIN = "@indian_hacker_group"
 
 #------------------------
 @app.on_message(filters.incoming & filters.private, group=-1)

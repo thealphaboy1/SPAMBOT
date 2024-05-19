@@ -12,7 +12,7 @@ START_BUTTON = [
         Button.url("★𝗦𝗨𝗣𝗣𝗢𝗥𝗧★", "https://t.me/penguin_x_chat")
     ],
     [
-        Button.url("★𝗖𝗢𝗗𝗘𝗥★", "https://t.me/OXEGN")
+        Button.url("★𝗖𝗢𝗗𝗘𝗥★", "https://t.me/clxgn")
     ]
 ]
 

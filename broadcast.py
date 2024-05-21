@@ -4,17 +4,17 @@ from pyrogram import filters
 from pyrogram.enums import ChatMembersFilter
 from pyrogram.errors import FloodWait
 
-from ANNIEMUSIC import app
-from ANNIEMUSIC.misc import SUDOERS
-from ANNIEMUSIC.utils.database import (
+from PENGUINMUSIC import app
+from PENGUINMUSIC.misc import SUDOERS
+from PENGUINMUSIC.utils.database import (
     get_active_chats,
     get_authuser_names,
     get_client,
     get_served_chats,
     get_served_users,
 )
-from ANNIEMUSIC.utils.decorators.language import language
-from ANNIEMUSIC.utils.formatters import alpha_to_int
+from PENGUIMMUSIC.utils.decorators.language import language
+from PENGUINMUSIC.utils.formatters import alpha_to_int
 from config import adminlist
 
 IS_BROADCASTING = False

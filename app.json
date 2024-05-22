@@ -1,6 +1,6 @@
 {
-    "name": "˹ℂ𝕙𝕒𝕝𝕔𝕠𝕘𝕖𝕟 ꭙ 𝕊𝕡𝕒𝕞˼🫧",
-    "logo": "https://telegra.ph/file/ea4802bf0511a0510e825.jpg",
+    "name": " 𝕒𝕝𝕡𝕙𝕒 ꭙ 𝕊𝕡𝕒𝕞˼🫧",
+    "logo": "https://telegra.ph/file/1418d0b28bdbfab01b1b4.jpg",
     "keywords": [
         "telegram",
         "telethon",
@@ -62,7 +62,7 @@
       },
       "CMD_HNDLR": {
         "description": "Custom command handler.",
-        "value": ".",
+        "value": "/",
         "required": false
       },
       "SUDO_USERS": {

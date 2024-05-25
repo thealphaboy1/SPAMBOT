@@ -35,7 +35,8 @@ async def start(event):
         TEXT = f"**ʜᴇʏ [{event.sender.first_name}](tg://user?id={event.sender.id}),\n\nɪ ᴀᴍ [{bot_name}](tg://user?id={bot_id})**\n"
         await event.client.send_file(
             event.chat_id,
-            "https://telegra.ph/file/ea4802bf0511a0510e825.jpg",
+            "https://telegra.ph/file/1418d0b28bdbfab01b1b4.jpg
+",
             caption=TEXT,
             buttons=START_BUTTON
         )
